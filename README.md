@@ -1,11 +1,19 @@
 Final Year Project.
+
+
+
 Bsc. Computer Science
+
+
+
+
 Egerton University, Main Campus Njoro
 
 
 
 This is a simple Arduino Program that utilizes an Arduino Uno Microcontroller, MFRC-522 RFID Reader, An RGB Module, A Servo, A Piezo Speaker(Buzzer).
-This program simulates a simple access control system.
+
+This program simulates a simple access control system implementing a simple door lock mechanism.
 
 
 //CARD
